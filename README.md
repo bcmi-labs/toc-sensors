@@ -7,11 +7,10 @@ These labs will guide you through a series of exercises using sensors and actuat
 ## Table of Contents
 
 * [Introduction to the MRAA and UPM libraries](https://github.com/SSG-DRD-IOT/lab-overview-mraa-and-upm-libraries/blob/master/README.md)
-* [Setup the Arduino Create Environment]()
-* [Digital GPIO Example]()
-* [Analog GPIO Example]()
-* [PWM Example]()
-* [I2C Example]()
-* [Get Your IP Address and Display it on the LCD]()
-* [Temperature sensors]()
-* [Rotary Angle sensors]()
+* [Digital GPIO Example](https://github.com/SSG-DRD-IOT/lab-digital-sensors-arduino)
+* [Analog GPIO Example](https://github.com/SSG-DRD-IOT/lab-analog-sensors-arduino)
+* [PWM Example](https://github.com/SSG-DRD-IOT/lab-pwm-sensors-arduino)
+* [I2C LCD Example](https://github.com/SSG-DRD-IOT/lab-lcd-arduino)
+* [Get Your IP Address and Display it on the LCD](https://github.com/SSG-DRD-IOT/lab-IP-to-LCD-Arduino)
+* [Temperature sensors](https://github.com/SSG-DRD-IOT/lab-temperature-sensor-c)
+* [Rotary Angle sensors](https://github.com/SSG-DRD-IOT/lab-rotary-angle-sensor-c)
