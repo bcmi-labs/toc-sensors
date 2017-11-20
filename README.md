@@ -8,7 +8,7 @@ These labs will guide you through a series of exercises using sensors and actuat
 
 These examples are written in C++ and can be compiled with the Arduino Create developer environment, Intel System Studio or with GCC.
 
-* [Introduction to the MRAA and UPM libraries](https://ssg-drd-iot.github.io/lab-overview-mraa-and-upm-libraries/blob/master/README.md)
+* [Introduction to the MRAA and UPM libraries](https://ssg-drd-iot.github.io/lab-overview-mraa-and-upm-libraries/)
 * [Digital GPIO Example](https://ssg-drd-iot.github.io/lab-digital-sensors-arduino)
 * [Analog GPIO Example](https://ssg-drd-iot.github.io/lab-analog-sensors-arduino)
 * [PWM Example](https://ssg-drd-iot.github.io/lab-pwm-sensors-arduino)
