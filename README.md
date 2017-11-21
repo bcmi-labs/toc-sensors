@@ -10,7 +10,6 @@ These examples are written in C++ and can be compiled with the Arduino Create de
 
 * [Introduction to the MRAA and UPM libraries](https://ssg-drd-iot.github.io/lab-overview-mraa-and-upm-libraries/)
 * [Digital GPIO Example](https://ssg-drd-iot.github.io/lab-digital-sensors-arduino)
-* [Analog GPIO Example](https://ssg-drd-iot.github.io/lab-analog-sensors-arduino)
 * [PWM Example](https://ssg-drd-iot.github.io/lab-pwm-sensors-arduino)
 * [I<sup>2</sup>C LCD Example](https://ssg-drd-iot.github.io/lab-lcd-arduino)
 * [Get Your IP Address and Display it on the LCD](https://ssg-drd-iot.github.io/lab-IP-to-LCD-Arduino)
