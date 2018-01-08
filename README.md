@@ -13,5 +13,5 @@ These examples are written in C++ and can be compiled with the Arduino Create de
 * [PWM Example](https://ssg-drd-iot.github.io/lab-pwm-sensors-arduino)
 * [I<sup>2</sup>C LCD Example](https://ssg-drd-iot.github.io/lab-lcd-arduino)
 * [Get Your IP Address and Display it on the LCD](https://ssg-drd-iot.github.io/lab-IP-to-LCD-Arduino)
-* [Temperature sensors](https://ssg-drd-iot.github.io/lab-temperature-sensor-c)
+* [Temperature sensors](https://ssg-drd-iot.github.io/lab-temperature-humidity-arduino)
 * [Rotary Angle sensors](https://ssg-drd-iot.github.io/lab-rotary-angle-sensor-c)
