@@ -2,7 +2,7 @@
 
 ## Lab Overview
 
-These labs will guide you through a series of exercises using sensors and actuators using the open source [MRAA](https://iotdk.intel.com/docs/master/mraa/) and [UPM](https://http://upm.mraa.io/) libraries.
+These labs will guide you through a series of exercises using sensors and actuators using the open source [MRAA](https://iotdk.intel.com/docs/master/mraa/) and [UPM](https://upm.mraa.io/) libraries.
 
 ## Table of Contents
 
